@@ -1,0 +1,16 @@
+.course-container{
+    /* padding-right: 105px; */
+    margin-left: 100px;
+    display: inline-flex;
+  }
+  .card{
+    margin-bottom: 50px;
+  }
+  body {
+    /* background-image: url('../../assets/bgimgmanasi.jfif'): */ 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  
